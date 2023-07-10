@@ -1,0 +1,27 @@
+.card{
+    min-height: 12.5rem;
+    border-radius: 15px;
+    border:2px  rgb(169, 222, 255) solid;
+    margin-bottom: 0.7rem;
+    /* box-shadow: 0 0 5px rgba(69, 212, 255, 0.624); */
+    /* background: linear-gradient(to right, rgba(215, 150, 255, 0.212),purple); */
+}
+
+ul li{
+    
+    color:rgb(61, 61, 61);
+    font-size: 0.9rem;
+}
+
+.dropdown-menu-options ul{
+
+    margin-top: 0.5rem;
+}
+
+button{
+    background-color: white ;
+}
+
+button:hover{
+    scale:1.1
+}
